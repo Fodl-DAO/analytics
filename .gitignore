@@ -1,0 +1,10 @@
+#ignore .env
+.env
+
+#ignore node_modules
+/node_modules
+
+#ignore dist
+/dist*
+.DS_Store
+data
